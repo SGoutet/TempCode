@@ -1,4 +1,4 @@
-# Invisible Coding Test
+# Coding Test
 
 Welcome Sylvain Goutet! This repository contains your coding test.
 
